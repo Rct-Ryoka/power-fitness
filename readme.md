@@ -1,4 +1,4 @@
-#h1 power-finess
+# power-finess
 
 first project i made using pure HTML and CSS
 
